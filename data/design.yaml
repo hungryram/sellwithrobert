@@ -1,15 +1,15 @@
 ---
 logo_or_title:
-  upload_logo: "/uploads/1st-independence.png"
-  title: 1st Independence Realty
-  favicon: "/uploads/favicon.png"
+  upload_logo: "/uploads/coldwell-banker-the-real-estate-group.png"
+  title: Coldwell Banker The Real Estate Group
+  favicon: "/uploads/coldwell-banker-the-real-estate-group.png"
 main_image:
-  hero_subtitle: ''
+  hero_subtitle: The Real Estate Group
   home_background_image: "/uploads/shutterstock_683283169.jpg"
   video_background: true
   upload_video: ''
   add_url_to_youtube_video: pY2CWYxUbrM
-  hero_title: 1st Independence Realty
+  hero_title: COLDWELL BANKER
   align_hero_text: has-text-centered
   add_a_button:
     hero_button_text: Get in touch
@@ -56,7 +56,7 @@ home_sections:
     right_link_to_property: "/contact"
   tile_background_color: ''
 sub_pages:
-  sub_page_image: "/uploads/shutterstock_1612432753.jpg"
+  sub_page_image: "/uploads/whitecounter.jpg"
 footer:
   footer_background: "#000000"
   footer_bio: In San Antonio and South Texas, home buyers and sellers alike have come
@@ -65,14 +65,14 @@ footer:
   footer_background_image: "/uploads/whiteinterior.jpg"
   enable_black_text: false
 colors:
-  text_link_colors: rgb(164, 0, 0)
-  button_background_colors: "#A40000"
+  text_link_colors: rgb(0, 72, 144)
+  button_background_colors: "#004890"
   header_background_color: "#FFFFFF"
   navigation_link_color: "#BA0000"
   enable_black_menu_items: true
-  top_bar_background: "#7D0000"
+  top_bar_background: "#004890"
   top_bar_enable_black_text_color: false
 upload_image: ''
 slideshow:
   slideshow_home:
-  - "/uploads/couch.jpg"
+  - "/uploads/whiteinterior.jpg"
