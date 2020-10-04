@@ -16,7 +16,7 @@ main_image:
     hero_button_link: "/contact"
     open_in_new_tab: false
     hero_button_text_color: "#FFFFFF"
-    hero_button_bg_color: "#7B0303"
+    hero_button_bg_color: "#004890"
   add_mp4_link: https://hungryram.s3-us-west-1.amazonaws.com/ocean.mp4
   add_youtube_background_video: false
 home_sections:
