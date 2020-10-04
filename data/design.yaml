@@ -43,12 +43,12 @@ home_sections:
   add_photo: "/uploads/robert-garcia.jpeg"
 - template: featured-tiles
   top_left_tile:
-    top_left_featured_image: "/uploads/whitecounter.jpg"
+    top_left_featured_image: "/uploads/main-house-photo.jpg"
     top_left_featured_title: Bloomington
     top_left_link_to_property: https://sellwithrobert.idxhome.com/listing/results/136027?cityId=21934&location=&propertyType=SFR%2CCND&minListPrice=&maxListPrice=&squareFeet=&bedrooms=0&bathCount=0&_openHomesOnlyYn=on&_dateRange=on&_virtualTourYn=on
   bottom_left_tile:
     featured_title: Gridley
-    featured_image: "/uploads/whiteinterior.jpg"
+    featured_image: "/uploads/luxkitchen.jpg"
     bottom_left_link_to_property: https://sellwithrobert.idxhome.com/listing/results/136027?cityId=31030&location=&propertyType=SFR%2CCND&minListPrice=&maxListPrice=&squareFeet=&bedrooms=0&bathCount=0&_openHomesOnlyYn=on&_dateRange=on&_virtualTourYn=on
   right_tile:
     featured_title: Colfax
