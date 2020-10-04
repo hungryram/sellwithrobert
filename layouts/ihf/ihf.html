@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{.Site.BaseURL}}/css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.0/css/bulma.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Raleway&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/2dac2bfc0f.js" crossorigin="anonymous"></script>
+    <link rel="shortcut icon" href="{{ .Site.Data.design.logo_or_title.favicon | absURL }}" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-141651762-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-141651762-1');
+</script>
+
+</head>
+<body>
+{{ partial "navbar.html" . }}
+<div style="height: 25vh;background:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.8)),url({{ .Site.Data.design.sub_pages.sub_page_image | absURL }}); background-size: cover;background-position: center" class="page-banner">
+  <div class="section">
+      <div class="container">
+          <div class="columns has-text-centered">
+              <div class="column">
+                  <h2 class="title is-3">{{ .Title }}</h2>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
+<div class="section">
+    <div class="container">
+      {idx_body}
+      <!-- End idx container -->
+    </div>
+</div>
+
+{{ partial "footer.html" . }}
