@@ -1,4 +1,4 @@
-baseURL = "https://wwww.sellwithrobert.com/"
+baseURL = "https://www.sellwithrobert.com/"
 enableRobotsTXT = "true"
 languageCode = "en-us"
 summarylength = 20
