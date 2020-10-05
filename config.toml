@@ -3,10 +3,6 @@ enableRobotsTXT = "true"
 languageCode = "en-us"
 summarylength = 20
 [[menu.main]]
-name = "The Team"
-url = "/teams"
-weight = 6
-[[menu.main]]
 name = "Home Value Request"
 parent = "Buyers & Sellers"
 url = "https://sellwithrobert.com/home-value-request"
@@ -22,37 +18,37 @@ parent = "Buyers & Sellers"
 url = "https://sellwithrobert.idxhome.com/mortcalc/136027"
 weight = 2
 [[menu.main]]
-name = "Search"
-parent = "Property Search"
-url = "https://sellwithrobert.idxhome.com/homesearch/136027"
-weight = 1
-[[menu.main]]
 name = "Property Organizer"
 parent = "Buyers & Sellers"
 url = "https://sellwithrobert.idxhome.com/organizer/login/136027"
 weight = 1
 [[menu.main]]
-name = "Testimonials"
-url = "/testimonials"
-weight = 5
+name = "Search"
+parent = "Property Search"
+url = "https://sellwithrobert.idxhome.com/homesearch/136027"
+weight = 1
 [[menu.main]]
 name = "Featured Listings"
 url = "https://sellwithrobert.idxhome.com/featured/136027"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Property Search"
-weight = 3
+name = "Contact"
+url = "/contact"
+weight = 6
 [[menu.main]]
 name = "Buyers & Sellers"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "/contact"
-weight = 7
+name = "Property Search"
+weight = 3
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "The Team"
+url = "/teams"
+weight = 5
 [taxonomies]
 category = "categories"
 tag = "tags"
