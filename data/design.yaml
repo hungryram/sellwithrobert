@@ -61,8 +61,8 @@ sub_pages:
   sub_page_image: "/uploads/whitecounter.jpg"
 footer:
   footer_background: "#000000"
-  footer_bio: In San Antonio and South Texas, home buyers and sellers alike have come
-    to know REALTOR® Trinie Ortiz Johnson as "The one who does it right."
+  footer_bio: Robert was appointed by the Mayor of Bloomington to serve on the Property
+    Maintenance Review Board where he serves as Bloomington’s Citizen At Large.
   disable_background_color: true
   footer_background_image: "/uploads/whiteinterior.jpg"
   enable_black_text: false
