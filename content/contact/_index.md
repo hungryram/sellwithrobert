@@ -1,8 +1,8 @@
 +++
 contact_content = "We look forward to connecting with you."
-meta_description = "Contact Anita Iswanto at 714-262-3501 or email anitaeiswanto@gmail.com at Century 21 Garland Realty"
+meta_description = "Contact Robert Garcia at Coldwell Banker Real Estate Group"
 title = "Contact Me"
-title_tag = "Contact Anita Iswanto - Century 21 Garland Realty"
+title_tag = "Contact Robert Garcia - Coldwell Banker Real Estate Group"
 url = ""
 
 +++
