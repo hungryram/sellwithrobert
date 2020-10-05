@@ -21,8 +21,10 @@ main_image:
   add_youtube_background_video: false
 home_sections:
 - template: idx-listings
-  heading: ''
-  text: ''
+  heading: Our Featured Listings
+  text: Featured listings are updated hourly from the MLS. Need more information on
+    some properties? Let's get in touch. Register for an account to receive alerts
+    for new listings that match your search criteria
 - template: intro
   intro_title: Robert Garcia
   intro_body: Robert is originally from Texas, born and raised, but has made Bloomington-Normal
